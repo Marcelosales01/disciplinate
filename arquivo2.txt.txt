@@ -1,3 +1,4 @@
 É importante que tenham conciencia sobre as funçoes e comandos do git.
 
 alteraçao 
+alteraçao 2
